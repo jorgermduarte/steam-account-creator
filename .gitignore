@@ -1,4 +1,5 @@
 # Logs
+accounts/I*
 logs
 *.log
 npm-debug.log*
